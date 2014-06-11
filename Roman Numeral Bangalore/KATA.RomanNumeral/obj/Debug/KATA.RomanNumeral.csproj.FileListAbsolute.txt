@@ -1,0 +1,5 @@
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral\bin\Debug\KATA.RomanNumeral.dll
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral\bin\Debug\KATA.RomanNumeral.pdb
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral\obj\Debug\KATA.RomanNumeral.csprojResolveAssemblyReference.cache
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral\obj\Debug\KATA.RomanNumeral.dll
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral\obj\Debug\KATA.RomanNumeral.pdb

@@ -1,0 +1,7 @@
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral.UnitTests\bin\Debug\KATA.RomanNumeral.UnitTests.dll
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral.UnitTests\bin\Debug\KATA.RomanNumeral.UnitTests.pdb
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral.UnitTests\bin\Debug\KATA.RomanNumeral.dll
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral.UnitTests\bin\Debug\KATA.RomanNumeral.pdb
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral.UnitTests\obj\Debug\KATA.RomanNumeral.UnitTests.csprojResolveAssemblyReference.cache
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral.UnitTests\obj\Debug\KATA.RomanNumeral.UnitTests.dll
+C:\Katas\Roman Numeral Bangalore\KATA.RomanNumeral.UnitTests\obj\Debug\KATA.RomanNumeral.UnitTests.pdb
